@@ -1,1 +1,1 @@
-# HTML-_CSS_and_Javascript_for_Web_Developers_by_Johns_Hopkins_University
+# HTML_CSS_and_Javascript_for_Web_Developers_by_Johns_Hopkins_University
